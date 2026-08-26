@@ -1,23 +1,26 @@
 # Hi, I'm Mustafa Alajati 👋
 
-### Software Engineering & Technology | Software Development • Business Automation • AI-Assisted Development
+### Software Developer | Business Automation | AI-Assisted Development
 
-I build practical software solutions that combine **software development, business processes, automation, and modern AI tools**. My focus is on turning real operational needs into clear, usable, and efficient systems.
+I build practical software solutions that combine **software development, business processes, automation, data analysis, and modern AI-assisted development tools**. My focus is on turning real operational needs into clear, usable, and efficient systems.
 
-I have hands-on experience with business operations, e-commerce workflows, reporting, system improvement, and software projects. This background helps me approach development not only from a technical perspective, but also with an understanding of how software can solve real business problems.
+My background includes hands-on experience with business operations, e-commerce workflows, reporting, process improvement, and software projects. This allows me to approach development from both a **technical** and **business-oriented** perspective.
 
 ## 🛠️ Tech & Tools
 
 **Development**  
 `Python` `Java` `C#` `JavaScript` `HTML` `CSS` `SQL`
 
+**Data & Machine Learning**  
+`Pandas` `NumPy` `Matplotlib` `Scikit-learn` `Streamlit`
+
 **Game Development**  
 `Godot 4` `GDScript`
 
 **AI-Assisted Development**  
-`OpenAI Codex` `AI-assisted coding & workflow automation`
+`OpenAI Codex` `AI-Assisted Coding` `Workflow Automation`
 
-**Systems & Business Technology**  
+**Business Technology**  
 `Business Automation` `E-commerce Systems` `Reporting` `Data Analysis` `Process Improvement`
 
 **Tools**  
@@ -25,13 +28,18 @@ I have hands-on experience with business operations, e-commerce workflows, repor
 
 ## 🚀 Featured Projects
 
+### 📊 [Foreign Trade Decision Support System](https://github.com/safialajati2-creator/foreign-trade-decision-support-system)
+An end-to-end **Python and Streamlit** data analytics application for foreign-trade analysis. It includes data cleaning, economic indicator calculations, interactive visualizations, **Linear Regression and Random Forest forecasting**, rule-based decision support, and automatic PDF reporting.
+
+`Python` `Streamlit` `Pandas` `Scikit-learn` `Machine Learning` `Data Analysis` `ReportLab`
+
 ### 🎮 THE SHADOW
 A game development project built with **Godot 4**, combining gameplay systems, level development, scripting, debugging, and iterative AI-assisted development using **OpenAI Codex**.
 
 > Repository and project showcase coming soon.
 
-### 📊 Absence Management System
-A practical management system designed to organize and track employee attendance and absence data, with a focus on clear workflows, reporting, and operational usability.
+### 📋 Absence Management System
+A practical management system designed to organize and track employee attendance and absence data, with a focus on clear workflows, reporting, automation, and operational usability.
 
 > Repository and full documentation coming soon.
 
@@ -42,19 +50,19 @@ A web development project focused on building a clean, functional, and user-frie
 
 ## 💡 What I Focus On
 
-- Building practical software for real-world needs
+- Practical software for real-world business needs
 - Business process automation and system improvement
+- Data analysis and decision-support systems
 - Web and application development
 - Game development with Godot 4
 - AI-assisted software development
-- Data-driven reporting and decision support
 
-## 📍 Based in Istanbul, Türkiye
+## 📍 Istanbul, Türkiye
 
-I am interested in opportunities where I can contribute to **software development, technology, automation, and digital transformation** while continuing to grow as a developer.
+I am interested in opportunities where I can contribute to **software development, automation, data-driven systems, and digital transformation** while continuing to grow as a developer.
 
 ---
 
 ### 📫 Let's Connect
 
-Feel free to explore my repositories and projects here on GitHub.
+Explore my repositories to see my projects, technical work, and ongoing development.
