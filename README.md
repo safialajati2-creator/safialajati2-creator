@@ -9,7 +9,7 @@ My background includes hands-on experience with business operations, e-commerce 
 ## 🛠️ Tech & Tools
 
 **Development**  
-`Python` `Java` `C#` `JavaScript` `HTML` `CSS` `SQL`
+`Python` `Java` `C#` `JavaScript` `Node.js` `Express` `HTML` `CSS` `SQL`
 
 **Data & Machine Learning**  
 `Pandas` `NumPy` `Matplotlib` `Scikit-learn` `Streamlit`
@@ -33,15 +33,15 @@ An end-to-end **Python and Streamlit** data analytics application for foreign-tr
 
 `Python` `Streamlit` `Pandas` `Scikit-learn` `Machine Learning` `Data Analysis` `ReportLab`
 
+### 👥 [Employee Attendance Management System](https://github.com/safialajati2-creator/employee-attendance-management-system)
+A role-based employee attendance and absence management system built with **Node.js, Express, and EJS**. It manages employees, daily attendance, check-in/check-out times, working hours, overtime, late arrivals, shifts, holidays, Excel/PDF reporting, audit logs, and backup/restore workflows.
+
+`Node.js` `Express` `EJS` `JavaScript` `ExcelJS` `PDFKit` `Business Automation`
+
 ### 🎮 THE SHADOW
 A game development project built with **Godot 4**, combining gameplay systems, level development, scripting, debugging, and iterative AI-assisted development using **OpenAI Codex**.
 
 > Repository and project showcase coming soon.
-
-### 📋 Absence Management System
-A practical management system designed to organize and track employee attendance and absence data, with a focus on clear workflows, reporting, automation, and operational usability.
-
-> Repository and full documentation coming soon.
 
 ### 🌐 Web Project
 A web development project focused on building a clean, functional, and user-friendly digital experience.
