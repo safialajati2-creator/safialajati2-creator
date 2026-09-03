@@ -32,6 +32,15 @@ My background includes hands-on experience with business operations, e-commerce 
 
 ## 🚀 Featured Projects
 
+### 🚧🎮 Paradox Protocol — Upcoming Multiplayer Game
+**In Development**
+
+A new multiplayer game currently in development, built around an original cooperative gameplay concept with a focus on **player interaction, teamwork under pressure, and unpredictable sessions**. The project is being designed around a simple-to-understand core experience with room for surprising and memorable multiplayer moments.
+
+> More details will be revealed as development progresses.
+
+`Multiplayer` `Co-op` `Game Development` `Gameplay Design` `In Development`
+
 ### 👥 [Employee Attendance Management System](https://github.com/safialajati2-creator/employee-attendance-management-system)
 A role-based employee attendance and absence management system built with **Node.js, Express, and EJS**. It manages employees, daily attendance, check-in/check-out times, working hours, overtime, late arrivals, shifts, holidays, Excel/PDF reporting, audit logs, and backup/restore workflows.
 
