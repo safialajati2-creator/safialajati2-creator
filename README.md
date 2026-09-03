@@ -63,12 +63,10 @@ A modern **two-sided freelance marketplace frontend** built with **React, Vite, 
 - Gameplay programming and behavior-based game AI
 - AI-assisted software development
 
-## 📍 Istanbul, Türkiye
-
 I am interested in opportunities where I can contribute to **software development, automation, data-driven systems, web applications, game development, and digital transformation** while continuing to grow as a developer.
 
 ---
 
 ### 📫 Let's Connect
 
-[GitHub](https://github.com/safialajati2-creator) · [LinkedIn](https://www.linkedin.com/in/safi-alajati-8a1aa4286/) · [Email](mailto:alajati8@gmail.com)
+[GitHub](https://github.com/safialajati2-creator) · [LinkedIn](https://www.linkedin.com/in/mustafa-alajati-8a1aa4286/?isSelfProfile=true) · [Email](mailto:alajati8@gmail.com)
