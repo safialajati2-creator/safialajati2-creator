@@ -32,25 +32,25 @@ My background includes hands-on experience with business operations, e-commerce 
 
 ## 🚀 Featured Projects
 
-### 💼 [FreelanceHub](https://github.com/safialajati2-creator/freelancehub)
-A modern **two-sided freelance marketplace frontend** built with **React, Vite, and Tailwind CSS**. It provides distinct role-based experiences for clients and freelancers, including project publishing and management, applications, messaging workflows, proposal decisions, simulated payments, job discovery, saved jobs, professional profiles, services, and earnings tracking.
+### 👥 [Employee Attendance Management System](https://github.com/safialajati2-creator/employee-attendance-management-system)
+A role-based employee attendance and absence management system built with **Node.js, Express, and EJS**. It manages employees, daily attendance, check-in/check-out times, working hours, overtime, late arrivals, shifts, holidays, Excel/PDF reporting, audit logs, and backup/restore workflows.
 
-`React 19` `Vite` `Tailwind CSS` `React Router` `Framer Motion` `Role-Based UX` `Frontend Development`
-
-### 📊 [Foreign Trade Decision Support System](https://github.com/safialajati2-creator/foreign-trade-decision-support-system)
-An end-to-end **Python and Streamlit** data analytics application for foreign-trade analysis. It includes data cleaning, economic indicator calculations, interactive visualizations, **Linear Regression and Random Forest forecasting**, rule-based decision support, and automatic PDF reporting.
-
-`Python` `Streamlit` `Pandas` `Scikit-learn` `Machine Learning` `Data Analysis` `ReportLab`
+`Node.js` `Express` `EJS` `JavaScript` `ExcelJS` `PDFKit` `Business Automation`
 
 ### 🎮 [THE SHADOW](https://github.com/safialajati2-creator/the-shadow-game)
 A playable **2D dark-fantasy action platformer** built with **Godot 4 and GDScript**. The project includes directional combat, dash and unlockable special-dash mechanics, checkpoints and save/continue flow, rune progression, a shop system, multiple environments, behavior-based enemy AI, and the **BLUE adaptive boss encounter** with distance-based decision making, chase/dash behavior, freeze attacks, and dynamic arena repositioning.
 
 `Godot 4` `GDScript` `Game AI` `Gameplay Programming` `State Management` `Save Systems` `OpenAI Codex`
 
-### 👥 [Employee Attendance Management System](https://github.com/safialajati2-creator/employee-attendance-management-system)
-A role-based employee attendance and absence management system built with **Node.js, Express, and EJS**. It manages employees, daily attendance, check-in/check-out times, working hours, overtime, late arrivals, shifts, holidays, Excel/PDF reporting, audit logs, and backup/restore workflows.
+### 📊 [Foreign Trade Decision Support System](https://github.com/safialajati2-creator/foreign-trade-decision-support-system)
+An end-to-end **Python and Streamlit** data analytics application for foreign-trade analysis. It includes data cleaning, economic indicator calculations, interactive visualizations, **Linear Regression and Random Forest forecasting**, rule-based decision support, and automatic PDF reporting.
 
-`Node.js` `Express` `EJS` `JavaScript` `ExcelJS` `PDFKit` `Business Automation`
+`Python` `Streamlit` `Pandas` `Scikit-learn` `Machine Learning` `Data Analysis` `ReportLab`
+
+### 💼 [FreelanceHub](https://github.com/safialajati2-creator/freelancehub)
+A modern **two-sided freelance marketplace frontend** built with **React, Vite, and Tailwind CSS**. It provides distinct role-based experiences for clients and freelancers, including project publishing and management, applications, messaging workflows, proposal decisions, simulated payments, job discovery, saved jobs, professional profiles, services, and earnings tracking.
+
+`React 19` `Vite` `Tailwind CSS` `React Router` `Framer Motion` `Role-Based UX` `Frontend Development`
 
 ## 💡 What I Focus On
 
