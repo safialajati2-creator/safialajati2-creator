@@ -15,7 +15,7 @@ My background includes hands-on experience with business operations, e-commerce 
 `Pandas` `NumPy` `Matplotlib` `Scikit-learn` `Streamlit`
 
 **Game Development**  
-`Godot 4` `GDScript`
+`Godot 4` `GDScript` `Gameplay Programming` `Game AI`
 
 **AI-Assisted Development**  
 `OpenAI Codex` `AI-Assisted Coding` `Workflow Automation`
@@ -38,10 +38,10 @@ A role-based employee attendance and absence management system built with **Node
 
 `Node.js` `Express` `EJS` `JavaScript` `ExcelJS` `PDFKit` `Business Automation`
 
-### 🎮 THE SHADOW
-A game development project built with **Godot 4**, combining gameplay systems, level development, scripting, debugging, and iterative AI-assisted development using **OpenAI Codex**.
+### 🎮 [THE SHADOW](https://github.com/safialajati2-creator/the-shadow-game)
+A playable **2D dark-fantasy action platformer** built with **Godot 4 and GDScript**. The project includes directional combat, dash and unlockable special-dash mechanics, checkpoints and save/continue flow, rune progression, a shop system, multiple environments, behavior-based enemy AI, and the **BLUE adaptive boss encounter** with distance-based decision making, chase/dash behavior, freeze attacks, and dynamic arena repositioning.
 
-> Repository and project showcase coming soon.
+`Godot 4` `GDScript` `Game AI` `Gameplay Programming` `State Management` `Save Systems` `OpenAI Codex`
 
 ### 🌐 Web Project
 A web development project focused on building a clean, functional, and user-friendly digital experience.
@@ -55,6 +55,7 @@ A web development project focused on building a clean, functional, and user-frie
 - Data analysis and decision-support systems
 - Web and application development
 - Game development with Godot 4
+- Gameplay programming and behavior-based game AI
 - AI-assisted software development
 
 ## 📍 Istanbul, Türkiye
