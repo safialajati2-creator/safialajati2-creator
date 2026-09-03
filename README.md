@@ -71,4 +71,4 @@ I am interested in opportunities where I can contribute to **software developmen
 
 ### 📫 Let's Connect
 
-Explore my repositories to see my projects, technical work, and ongoing development.
+[GitHub](https://github.com/safialajati2-creator) · [LinkedIn](https://www.linkedin.com/in/safi-alajati-8a1aa4286/) · [Email](mailto:alajati8@gmail.com)
