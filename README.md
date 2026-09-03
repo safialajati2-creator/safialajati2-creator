@@ -41,12 +41,9 @@ A role-based employee attendance and absence management system built with **Node
 ### 🎮 [THE SHADOW](https://github.com/safialajati2-creator/the-shadow-game)
 A playable **2D dark-fantasy action platformer** built with **Godot 4 and GDScript**. The project includes directional combat, dash and unlockable special-dash mechanics, checkpoints and save/continue flow, rune progression, a shop system, multiple environments, behavior-based enemy AI, and the **BLUE adaptive boss encounter** with distance-based decision making, chase/dash behavior, freeze attacks, and dynamic arena repositioning.
 
+[![THE SHADOW gameplay showcase](https://raw.githubusercontent.com/safialajati2-creator/the-shadow-game/main/docs/images/main-menu.png)](https://github.com/safialajati2-creator/the-shadow-game)
+
 `Godot 4` `GDScript` `Game AI` `Gameplay Programming` `State Management` `Save Systems` `OpenAI Codex`
-
-### 🌐 Web Project
-A web development project focused on building a clean, functional, and user-friendly digital experience.
-
-> Repository and full documentation coming soon.
 
 ## 💡 What I Focus On
 
@@ -60,7 +57,7 @@ A web development project focused on building a clean, functional, and user-frie
 
 ## 📍 Istanbul, Türkiye
 
-I am interested in opportunities where I can contribute to **software development, automation, data-driven systems, and digital transformation** while continuing to grow as a developer.
+I am interested in opportunities where I can contribute to **software development, automation, data-driven systems, game development, and digital transformation** while continuing to grow as a developer.
 
 ---
 
