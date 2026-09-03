@@ -32,6 +32,15 @@
 
 ## 🚀 Öne Çıkan Projeler
 
+### 🚧🎮 Paradox Protocol — Yaklaşan Multiplayer Oyun
+**Geliştirme Aşamasında**
+
+Oyuncu etkileşimi, **baskı altında takım çalışması ve öngörülemeyen multiplayer deneyimler** üzerine odaklanan özgün bir cooperative gameplay yaklaşımıyla geliştirilen yeni bir multiplayer oyun projesi. Proje, anlaşılması kolay bir temel deneyim etrafında şekillenirken şaşırtıcı ve akılda kalıcı multiplayer anlarına alan açacak şekilde tasarlanıyor.
+
+> Geliştirme ilerledikçe daha fazla detay paylaşılacak.
+
+`Multiplayer` `Co-op` `Game Development` `Gameplay Design` `In Development`
+
 ### 👥 [Employee Attendance Management System](https://github.com/safialajati2-creator/employee-attendance-management-system)
 **Node.js, Express ve EJS** ile geliştirilmiş rol tabanlı bir personel devam/devamsızlık yönetim sistemidir. Çalışan yönetimi, günlük devam kayıtları, giriş/çıkış saatleri, çalışma süreleri, fazla mesai, geç kalma takibi, vardiyalar, tatiller, Excel/PDF raporlama, audit log ve yedekleme/geri yükleme süreçlerini yönetir.
 
