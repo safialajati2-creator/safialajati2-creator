@@ -41,14 +41,10 @@ A role-based employee attendance and absence management system built with **Node
 ### 🎮 [THE SHADOW](https://github.com/safialajati2-creator/the-shadow-game)
 A playable **2D dark-fantasy action platformer** built with **Godot 4 and GDScript**. The project includes directional combat, dash and unlockable special-dash mechanics, checkpoints and save/continue flow, rune progression, a shop system, multiple environments, behavior-based enemy AI, and the **BLUE adaptive boss encounter** with distance-based decision making, chase/dash behavior, freeze attacks, and dynamic arena repositioning.
 
-[![THE SHADOW gameplay showcase](https://raw.githubusercontent.com/safialajati2-creator/the-shadow-game/main/docs/images/main-menu.png)](https://github.com/safialajati2-creator/the-shadow-game)
-
 `Godot 4` `GDScript` `Game AI` `Gameplay Programming` `State Management` `Save Systems` `OpenAI Codex`
 
 ### 💼 [FreelanceHub](https://github.com/safialajati2-creator/freelancehub)
 A modern **two-sided freelance marketplace frontend** built with **React, Vite, and Tailwind CSS**. FreelanceHub provides distinct role-based experiences for clients and freelancers: clients can publish and manage projects, review applications, communicate with candidates, approve or reject proposals, and manage simulated payments; freelancers can discover and save jobs, submit and track proposals, manage their professional profile and services, and review earnings.
-
-[![FreelanceHub marketplace showcase](https://raw.githubusercontent.com/safialajati2-creator/freelancehub/main/docs/images/home-dashboard.png)](https://github.com/safialajati2-creator/freelancehub)
 
 `React 19` `Vite` `Tailwind CSS` `React Router` `Framer Motion` `Role-Based UX` `Frontend Development`
 
