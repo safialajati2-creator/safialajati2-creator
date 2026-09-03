@@ -32,25 +32,25 @@
 
 ## 🚀 Öne Çıkan Projeler
 
-### 💼 [FreelanceHub](https://github.com/safialajati2-creator/freelancehub)
-**React, Vite ve Tailwind CSS** ile geliştirilmiş modern, iki taraflı bir freelance marketplace frontend uygulamasıdır. Müşteriler ve freelancerlar için farklı rol tabanlı deneyimler sunar; proje yayınlama ve yönetme, başvurular, mesajlaşma akışları, teklif kararları, simüle edilmiş ödeme süreçleri, iş keşfi, kaydedilen işler, profesyonel profil ve hizmet yönetimi ile kazanç takibi gibi özellikler içerir.
+### 👥 [Employee Attendance Management System](https://github.com/safialajati2-creator/employee-attendance-management-system)
+**Node.js, Express ve EJS** ile geliştirilmiş rol tabanlı bir personel devam/devamsızlık yönetim sistemidir. Çalışan yönetimi, günlük devam kayıtları, giriş/çıkış saatleri, çalışma süreleri, fazla mesai, geç kalma takibi, vardiyalar, tatiller, Excel/PDF raporlama, audit log ve yedekleme/geri yükleme süreçlerini yönetir.
 
-`React 19` `Vite` `Tailwind CSS` `React Router` `Framer Motion` `Role-Based UX` `Frontend Development`
-
-### 📊 [Foreign Trade Decision Support System](https://github.com/safialajati2-creator/foreign-trade-decision-support-system)
-Dış ticaret analizi için geliştirilmiş uçtan uca bir **Python ve Streamlit** veri analitiği uygulamasıdır. Veri temizleme, ekonomik gösterge hesaplamaları, interaktif görselleştirmeler, **Linear Regression ve Random Forest tahmin modelleri**, kural tabanlı karar desteği ve otomatik PDF raporlama özelliklerini içerir.
-
-`Python` `Streamlit` `Pandas` `Scikit-learn` `Machine Learning` `Data Analysis` `ReportLab`
+`Node.js` `Express` `EJS` `JavaScript` `ExcelJS` `PDFKit` `Business Automation`
 
 ### 🎮 [THE SHADOW](https://github.com/safialajati2-creator/the-shadow-game)
 **Godot 4 ve GDScript** ile geliştirilmiş oynanabilir bir **2D dark-fantasy action platformer** projesidir. Yönlü savaş sistemi, dash ve açılabilir special-dash mekanikleri, checkpoint ve save/continue akışı, rune ilerlemesi, shop sistemi, farklı ortamlar, davranış tabanlı düşman AI'ı ve mesafeye göre karar verme, chase/dash davranışı, freeze saldırıları ve dinamik arena konumlandırması kullanan **BLUE adaptif boss karşılaşmasını** içerir.
 
 `Godot 4` `GDScript` `Game AI` `Gameplay Programming` `State Management` `Save Systems` `OpenAI Codex`
 
-### 👥 [Employee Attendance Management System](https://github.com/safialajati2-creator/employee-attendance-management-system)
-**Node.js, Express ve EJS** ile geliştirilmiş rol tabanlı bir personel devam/devamsızlık yönetim sistemidir. Çalışan yönetimi, günlük devam kayıtları, giriş/çıkış saatleri, çalışma süreleri, fazla mesai, geç kalma takibi, vardiyalar, tatiller, Excel/PDF raporlama, audit log ve yedekleme/geri yükleme süreçlerini yönetir.
+### 📊 [Foreign Trade Decision Support System](https://github.com/safialajati2-creator/foreign-trade-decision-support-system)
+Dış ticaret analizi için geliştirilmiş uçtan uca bir **Python ve Streamlit** veri analitiği uygulamasıdır. Veri temizleme, ekonomik gösterge hesaplamaları, interaktif görselleştirmeler, **Linear Regression ve Random Forest tahmin modelleri**, kural tabanlı karar desteği ve otomatik PDF raporlama özelliklerini içerir.
 
-`Node.js` `Express` `EJS` `JavaScript` `ExcelJS` `PDFKit` `Business Automation`
+`Python` `Streamlit` `Pandas` `Scikit-learn` `Machine Learning` `Data Analysis` `ReportLab`
+
+### 💼 [FreelanceHub](https://github.com/safialajati2-creator/freelancehub)
+**React, Vite ve Tailwind CSS** ile geliştirilmiş modern, iki taraflı bir freelance marketplace frontend uygulamasıdır. Müşteriler ve freelancerlar için farklı rol tabanlı deneyimler sunar; proje yayınlama ve yönetme, başvurular, mesajlaşma akışları, teklif kararları, simüle edilmiş ödeme süreçleri, iş keşfi, kaydedilen işler, profesyonel profil ve hizmet yönetimi ile kazanç takibi gibi özellikler içerir.
+
+`React 19` `Vite` `Tailwind CSS` `React Router` `Framer Motion` `Role-Based UX` `Frontend Development`
 
 ## 💡 Odaklandığım Alanlar
 
