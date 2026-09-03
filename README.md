@@ -9,7 +9,7 @@ My background includes hands-on experience with business operations, e-commerce 
 ## 🛠️ Tech & Tools
 
 **Development**  
-`Python` `Java` `C#` `JavaScript` `Node.js` `Express` `HTML` `CSS` `SQL`
+`Python` `Java` `C#` `JavaScript` `React` `Node.js` `Express` `HTML` `CSS` `Tailwind CSS` `SQL`
 
 **Data & Machine Learning**  
 `Pandas` `NumPy` `Matplotlib` `Scikit-learn` `Streamlit`
@@ -45,19 +45,27 @@ A playable **2D dark-fantasy action platformer** built with **Godot 4 and GDScri
 
 `Godot 4` `GDScript` `Game AI` `Gameplay Programming` `State Management` `Save Systems` `OpenAI Codex`
 
+### 💼 [FreelanceHub](https://github.com/safialajati2-creator/freelancehub)
+A modern **two-sided freelance marketplace frontend** built with **React, Vite, and Tailwind CSS**. FreelanceHub provides distinct role-based experiences for clients and freelancers: clients can publish and manage projects, review applications, communicate with candidates, approve or reject proposals, and manage simulated payments; freelancers can discover and save jobs, submit and track proposals, manage their professional profile and services, and review earnings.
+
+[![FreelanceHub marketplace showcase](https://raw.githubusercontent.com/safialajati2-creator/freelancehub/main/docs/images/home-dashboard.png)](https://github.com/safialajati2-creator/freelancehub)
+
+`React 19` `Vite` `Tailwind CSS` `React Router` `Framer Motion` `Role-Based UX` `Frontend Development`
+
 ## 💡 What I Focus On
 
 - Practical software for real-world business needs
 - Business process automation and system improvement
 - Data analysis and decision-support systems
 - Web and application development
+- Role-based frontend applications and marketplace workflows
 - Game development with Godot 4
 - Gameplay programming and behavior-based game AI
 - AI-assisted software development
 
 ## 📍 Istanbul, Türkiye
 
-I am interested in opportunities where I can contribute to **software development, automation, data-driven systems, game development, and digital transformation** while continuing to grow as a developer.
+I am interested in opportunities where I can contribute to **software development, automation, data-driven systems, web applications, game development, and digital transformation** while continuing to grow as a developer.
 
 ---
 
