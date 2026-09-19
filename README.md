@@ -1,81 +1,95 @@
-# Hi, I'm Mustafa Alajati 👋
+<div align="center">
+  <img src="./mustafa-header.svg" width="100%" alt="Mustafa Alajati — Software Developer, Automation, AI" />
+</div>
 
 <p align="center">
-  <b>English</b> | <a href="README_TR.md">Türkçe</a>
+  <b>English</b> · <a href="README_TR.md">Türkçe</a>
 </p>
 
-### Software Developer | Business Automation | AI-Assisted Development
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2800&pause=900&color=67E8F9&center=true&vCenter=true&repeat=true&width=760&height=42&lines=Building+practical+software+systems;Automating+real+business+workflows;Creating+data-driven+applications;Developing+games+and+intelligent+systems" alt="Animated introduction" />
+</div>
 
-I build practical software solutions that combine **software development, business processes, automation, data analysis, and modern AI-assisted development tools**. My focus is on turning real operational needs into clear, usable, and efficient systems.
+```console
+mustafa@safialajati:~$ whoami
+Software developer building practical systems across automation, data, web, AI-assisted development, and games.
+```
 
-My background includes hands-on experience with business operations, e-commerce workflows, reporting, process improvement, and software projects. This allows me to approach development from both a **technical** and **business-oriented** perspective.
+### `01 // About`
 
-## 🛠️ Tech & Tools
+I build software around real operational needs — not just isolated demos. My work combines **software development, business automation, data analysis, e-commerce workflows, AI-assisted development, and game systems**.
 
-**Development**  
-`Python` `Java` `C#` `JavaScript` `React` `Node.js` `Express` `HTML` `CSS` `Tailwind CSS` `SQL`
+- Build internal tools that simplify repetitive business processes
+- Develop role-based web applications and operational systems
+- Work with Python for analytics, machine learning, and decision support
+- Build gameplay systems and behavior-based AI with Godot 4
+- Use AI-assisted development tools to accelerate implementation and iteration
+- Approach projects from both a technical and business-oriented perspective
 
-**Data & Machine Learning**  
-`Pandas` `NumPy` `Matplotlib` `Scikit-learn` `Streamlit`
+### `02 // Build Matrix`
 
-**Game Development**  
-`Godot 4` `GDScript` `Gameplay Programming` `Game AI`
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,cs,js,react,nodejs,express,html,css,tailwind,git,github,vscode,godot&perline=7&theme=dark" alt="Technology stack" />
+</div>
 
-**AI-Assisted Development**  
-`OpenAI Codex` `AI-Assisted Coding` `Workflow Automation`
+<br/>
 
-**Business Technology**  
-`Business Automation` `E-commerce Systems` `Reporting` `Data Analysis` `Process Improvement`
+| Area | Tools & technologies |
+|:---|:---|
+| **Application development** | Python, Java, C#, JavaScript, React, Node.js, Express, HTML, CSS, Tailwind CSS, SQL |
+| **Data & ML** | Pandas, NumPy, Matplotlib, Scikit-learn, Streamlit |
+| **Game development** | Godot 4, GDScript, Gameplay Programming, Game AI |
+| **AI-assisted development** | OpenAI Codex, AI-Assisted Coding, Workflow Automation |
+| **Business technology** | Business Automation, E-commerce Systems, Reporting, Process Improvement |
 
-**Tools**  
-`Git` `GitHub` `VS Code` `Microsoft Excel`
+### `03 // Selected Work`
 
-## 🚀 Featured Projects
+| Project | Signal |
+|:---|:---|
+| 🚧 **Paradox Protocol** | Upcoming multiplayer game in development, focused on teamwork, player interaction, and unpredictable sessions — core mechanics intentionally kept private for now |
+| 👥 **[Employee Attendance Management System](https://github.com/safialajati2-creator/employee-attendance-management-system)** | Role-based Node.js system for attendance, working hours, overtime, late arrivals, shifts, reporting, audit logs, and backup/restore workflows |
+| 🎮 **[THE SHADOW](https://github.com/safialajati2-creator/the-shadow-game)** | Playable Godot 4 dark-fantasy action platformer with combat, progression, save systems, enemy AI, and an adaptive boss encounter |
+| 📊 **[Foreign Trade Decision Support System](https://github.com/safialajati2-creator/foreign-trade-decision-support-system)** | Python + Streamlit analytics application with data cleaning, economic indicators, forecasting, decision support, and PDF reporting |
+| 💼 **[FreelanceHub](https://github.com/safialajati2-creator/freelancehub)** | Two-sided React marketplace frontend with role-based client/freelancer workflows, project management, messaging, proposals, and simulated payments |
 
-### 🚧🎮 Paradox Protocol — Upcoming Multiplayer Game
-**In Development**
+<div align="center">
+  <a href="https://github.com/safialajati2-creator?tab=repositories">
+    <img src="https://img.shields.io/badge/EXPLORE_ALL_REPOSITORIES-08111F?style=for-the-badge&logo=github&logoColor=67E8F9&labelColor=08111F&color=6D5DFB" alt="Explore all repositories" />
+  </a>
+</div>
 
-A new multiplayer game currently in development, built around an original cooperative gameplay concept with a focus on **player interaction, teamwork under pressure, and unpredictable sessions**. The project is being designed around a simple-to-understand core experience with room for surprising and memorable multiplayer moments.
+### `04 // Engineering Signal`
 
-> More details will be revealed as development progresses.
+| Focus | What I build with it |
+|:---|:---|
+| **Business automation** | Internal systems, operational workflows, reporting, role-based access, and process improvement |
+| **Web applications** | React interfaces, Node.js/Express services, role-based workflows, and marketplace experiences |
+| **Data-driven systems** | Analytics, machine learning, forecasting, visualization, and decision-support applications |
+| **Game systems** | Gameplay mechanics, state management, save systems, enemy behavior, and adaptive game AI |
+| **AI-assisted workflows** | Faster prototyping, coding, automation, iteration, and practical problem solving |
 
-`Multiplayer` `Co-op` `Game Development` `Gameplay Design` `In Development`
+### `05 // Current Direction`
 
-### 👥 [Employee Attendance Management System](https://github.com/safialajati2-creator/employee-attendance-management-system)
-A role-based employee attendance and absence management system built with **Node.js, Express, and EJS**. It manages employees, daily attendance, check-in/check-out times, working hours, overtime, late arrivals, shifts, holidays, Excel/PDF reporting, audit logs, and backup/restore workflows.
+```text
+BUILDING   → practical software with measurable value
+EXPLORING  → multiplayer gameplay systems and stronger software architecture
+IMPROVING  → testing, deployment, code quality, and production-ready workflows
+```
 
-`Node.js` `Express` `EJS` `JavaScript` `ExcelJS` `PDFKit` `Business Automation`
+### `06 // Connect`
 
-### 🎮 [THE SHADOW](https://github.com/safialajati2-creator/the-shadow-game)
-A playable **2D dark-fantasy action platformer** built with **Godot 4 and GDScript**. The project includes directional combat, dash and unlockable special-dash mechanics, checkpoints and save/continue flow, rune progression, a shop system, multiple environments, behavior-based enemy AI, and the **BLUE adaptive boss encounter** with distance-based decision making, chase/dash behavior, freeze attacks, and dynamic arena repositioning.
+<div align="center">
+  <a href="https://github.com/safialajati2-creator">
+    <img src="https://img.shields.io/badge/GitHub-safialajati2--creator-08111F?style=for-the-badge&logo=github&logoColor=67E8F9" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/mustafa-alajati-8a1aa4286/?isSelfProfile=true">
+    <img src="https://img.shields.io/badge/LinkedIn-Mustafa_Alajati-08111F?style=for-the-badge&logo=linkedin&logoColor=67E8F9" alt="LinkedIn" />
+  </a>
+  <a href="mailto:Safialajati2@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Safialajati2%40gmail.com-08111F?style=for-the-badge&logo=gmail&logoColor=67E8F9" alt="Email" />
+  </a>
+</div>
 
-`Godot 4` `GDScript` `Game AI` `Gameplay Programming` `State Management` `Save Systems` `OpenAI Codex`
-
-### 📊 [Foreign Trade Decision Support System](https://github.com/safialajati2-creator/foreign-trade-decision-support-system)
-An end-to-end **Python and Streamlit** data analytics application for foreign-trade analysis. It includes data cleaning, economic indicator calculations, interactive visualizations, **Linear Regression and Random Forest forecasting**, rule-based decision support, and automatic PDF reporting.
-
-`Python` `Streamlit` `Pandas` `Scikit-learn` `Machine Learning` `Data Analysis` `ReportLab`
-
-### 💼 [FreelanceHub](https://github.com/safialajati2-creator/freelancehub)
-A modern **two-sided freelance marketplace frontend** built with **React, Vite, and Tailwind CSS**. It provides distinct role-based experiences for clients and freelancers, including project publishing and management, applications, messaging workflows, proposal decisions, simulated payments, job discovery, saved jobs, professional profiles, services, and earnings tracking.
-
-`React 19` `Vite` `Tailwind CSS` `React Router` `Framer Motion` `Role-Based UX` `Frontend Development`
-
-## 💡 What I Focus On
-
-- Practical software for real-world business needs
-- Business process automation and system improvement
-- Data analysis and decision-support systems
-- Web and application development
-- Role-based frontend applications and marketplace workflows
-- Game development with Godot 4
-- Gameplay programming and behavior-based game AI
-- AI-assisted software development
-
-I am interested in opportunities where I can contribute to **software development, automation, data-driven systems, web applications, game development, and digital transformation** while continuing to grow as a developer.
-
----
-
-### 📫 Let's Connect
-
-[GitHub](https://github.com/safialajati2-creator) · [LinkedIn](https://www.linkedin.com/in/mustafa-alajati-8a1aa4286/?isSelfProfile=true) · [Email](mailto:Safialajati2@gmail.com)
+<div align="center">
+  <sub><code>build(); automate(); improve(); repeat();</code></sub>
+</div>
