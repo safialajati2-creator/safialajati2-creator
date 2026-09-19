@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
+  <title id="title">Mustafa Alajati — Software Developer</title>
+  <desc id="desc">Style 15 brutalist editorial profile banner in black, warm ivory and deep red.</desc>
+  <defs>
+    <pattern id="grain" width="7" height="7" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="2" r=".45" fill="#101010" opacity=".08"/>
+      <circle cx="5" cy="5" r=".35" fill="#101010" opacity=".06"/>
+    </pattern>
+    <style>
+      .sans{font-family:Inter,Arial,Helvetica,sans-serif}
+      .mono{font-family:"SFMono-Regular",Consolas,"Liberation Mono",monospace}
+      .name{font-weight:900;letter-spacing:-5px}
+      .micro{font-size:11px;font-weight:700;letter-spacing:3px}
+      .role{font-size:15px;font-weight:600;letter-spacing:3.8px}
+    </style>
+  </defs>
+  <rect width="1200" height="420" fill="#f1eee7"/>
+  <rect width="1200" height="420" fill="url(#grain)"/>
+  <line x1="126" y1="0" x2="126" y2="420" stroke="#171717" stroke-width="1"/>
+  <line x1="824" y1="0" x2="824" y2="420" stroke="#171717" stroke-width="1"/>
+  <line x1="1126" y1="0" x2="1126" y2="420" stroke="#171717" stroke-width="1"/>
+  <line x1="0" y1="336" x2="1200" y2="336" stroke="#171717" stroke-width="1"/>
+  <rect x="0" y="215" width="100" height="121" fill="#b91f24"/>
+  <rect x="0" y="336" width="100" height="84" fill="#111"/>
+  <g class="mono micro" fill="#171717">
+    <text x="34" y="48">CODE</text>
+    <text x="34" y="72">AUTOMATE</text>
+    <text x="34" y="96">SOLVE</text>
+    <text x="34" y="120">IMPROVE</text>
+  </g>
+  <line x1="34" y1="145" x2="58" y2="145" stroke="#171717" stroke-width="2"/>
+  <text x="145" y="177" class="sans name" font-size="112" fill="#101010">MUSTAFA</text>
+  <text x="145" y="286" class="sans name" font-size="112" fill="#101010">ALAJATI</text>
+  <text x="149" y="320" class="sans role" fill="#171717">SOFTWARE DEVELOPER · AUTOMATION · AI SYSTEMS</text>
+  <g>
+    <path d="M824 0H945L1090 145V420H824Z" fill="#111"/>
+    <path d="M884 0H1005L1126 121V237L1000 111Z" fill="#d9d5cd"/>
+    <path d="M824 161L951 34L1126 209V323L1004 201L884 321H824Z" fill="#272727"/>
+    <path d="M925 0L1126 201V284L884 42V0Z" fill="#ece9e2" opacity=".72"/>
+    <circle cx="1052" cy="84" r="68" fill="#b91f24"/>
+    <path d="M824 97L964 237L874 327L824 277Z" fill="#0c0c0c"/>
+    <path d="M930 420L1126 224V420Z" fill="#373737"/>
+    <line x1="824" y1="0" x2="1126" y2="302" stroke="#f1eee7" stroke-width="2" opacity=".65"/>
+    <line x1="884" y1="0" x2="1126" y2="242" stroke="#111" stroke-width="1" opacity=".8"/>
+  </g>
+  <g class="mono micro" fill="#171717">
+    <text x="1148" y="48">BUILD</text>
+    <text x="1148" y="72">BETTER</text>
+    <text x="1148" y="96">SYSTEMS</text>
+  </g>
+  <line x1="1148" y1="121" x2="1172" y2="121" stroke="#171717" stroke-width="2"/>
+  <line x1="145" y1="376" x2="176" y2="376" stroke="#b91f24" stroke-width="4"/>
+  <text x="190" y="381" class="mono micro" fill="#5b5852">A MORE CAPABLE TOMORROW</text>
+  <g stroke="#111" stroke-width="3">
+    <line x1="1148" y1="358" x2="1174" y2="358"/>
+    <line x1="1148" y1="371" x2="1174" y2="371"/>
+    <line x1="1148" y1="384" x2="1174" y2="384"/>
+  </g>
+  <rect x="12" y="12" width="1176" height="396" fill="none" stroke="#171717" opacity=".18"/>
+</svg>
