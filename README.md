@@ -7,7 +7,7 @@
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2800&pause=900&color=000000&center=true&vCenter=true&repeat=true&width=760&height=42&lines=Building+practical+software+systems;Automating+real+business+workflows;Creating+data-driven+applications;Developing+games+and+intelligent+systems" alt="Animated introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2800&pause=900&color=FFFFFF&center=true&vCenter=true&repeat=true&width=760&height=42&lines=Building+practical+software+systems;Automating+real+business+workflows;Creating+data-driven+applications;Developing+games+and+intelligent+systems" alt="Animated introduction" />
 </div>
 
 ```console
