@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./mustafa-holographic-animated.svg" width="100%" alt="Mustafa Alajati — Software Developer, Automation, AI" />
+  <img src="./mustafa-minimal-premium-animated.svg" width="100%" alt="Mustafa Alajati — Software Developer, Automation, AI" />
 </div>
 
 <p align="center">
