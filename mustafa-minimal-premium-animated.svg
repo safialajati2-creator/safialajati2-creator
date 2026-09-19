@@ -1,0 +1,98 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
+  <title id="title">Mustafa Alajati — Minimal Premium Animated Banner</title>
+  <desc id="desc">Minimal black animated developer banner with a traveling light wave, subtle text shimmer, particles and terminal cursor.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#030303"/>
+      <stop offset=".5" stop-color="#090b10"/>
+      <stop offset="1" stop-color="#020203"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset=".38" stop-color="#b9d9ff" stop-opacity=".45"/>
+      <stop offset=".62" stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+      <animateTransform attributeName="gradientTransform" type="translate" values="-0.55 0;0.55 0;-0.55 0" dur="7s" repeatCount="indefinite"/>
+    </linearGradient>
+    <linearGradient id="nameGlow" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#b8bec8"/>
+      <stop offset=".38" stop-color="#ffffff"/>
+      <stop offset=".55" stop-color="#dbeafe"/>
+      <stop offset="1" stop-color="#a8adb6"/>
+      <animateTransform attributeName="gradientTransform" type="translate" values="-0.3 0;0.3 0;-0.3 0" dur="8s" repeatCount="indefinite"/>
+    </linearGradient>
+    <radialGradient id="halo">
+      <stop offset="0" stop-color="#cfe6ff" stop-opacity=".22"/>
+      <stop offset="1" stop-color="#cfe6ff" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="glow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="5" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="softGlow" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="2.2" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <pattern id="grain" width="10" height="10" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="3" r=".35" fill="#fff" opacity=".025"/>
+      <circle cx="8" cy="7" r=".3" fill="#fff" opacity=".02"/>
+    </pattern>
+    <path id="wavePath" d="M-60 285C125 205 247 330 430 269S760 203 932 266s230-3 340-74"/>
+    <style>
+      .name{font:300 58px Inter,ui-sans-serif,system-ui,-apple-system,"Segoe UI",sans-serif;letter-spacing:12px}
+      .role{font:500 15px ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;letter-spacing:3.5px}
+      .micro{font:500 11px ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;letter-spacing:2.5px}
+      .wave{stroke-dasharray:18 28;animation:dash 12s linear infinite}
+      .breathe{animation:breathe 4.5s ease-in-out infinite}
+      .blink{animation:blink 1.1s steps(1) infinite}
+      .fade1{animation:fade 5s ease-in-out infinite}
+      .fade2{animation:fade 5s ease-in-out infinite;animation-delay:1.2s}
+      .fade3{animation:fade 5s ease-in-out infinite;animation-delay:2.4s}
+      @keyframes dash{to{stroke-dashoffset:-460}}
+      @keyframes breathe{0%,100%{opacity:.78}50%{opacity:1}}
+      @keyframes blink{0%,52%{opacity:1}53%,100%{opacity:0}}
+      @keyframes fade{0%,100%{opacity:.25}50%{opacity:.9}}
+    </style>
+  </defs>
+  <rect width="1200" height="420" rx="30" fill="url(#bg)"/>
+  <rect width="1200" height="420" rx="30" fill="url(#grain)"/>
+  <ellipse cx="600" cy="225" rx="420" ry="170" fill="url(#halo)" class="breathe"/>
+  <path d="M40 44h1120M40 376h1120" stroke="#fff" stroke-opacity=".07"/>
+  <path d="M40 44v28M1160 44v28M40 376v-28M1160 376v-28" stroke="#fff" stroke-opacity=".22"/>
+  <g class="micro" fill="#9aa2ad">
+    <text x="58" y="86" class="fade1">IDEAS</text>
+    <text x="58" y="108" class="fade2">INTO</text>
+    <text x="58" y="130" class="fade3">SOLUTIONS</text>
+    <text x="1142" y="86" text-anchor="end" class="fade2">BUILD</text>
+    <text x="1142" y="108" text-anchor="end" class="fade3">AUTOMATE</text>
+    <text x="1142" y="130" text-anchor="end" class="fade1">IMPROVE</text>
+  </g>
+  <line x1="58" y1="151" x2="86" y2="151" stroke="#dbeafe" stroke-width="1.5" opacity=".7"/>
+  <line x1="1114" y1="151" x2="1142" y2="151" stroke="#dbeafe" stroke-width="1.5" opacity=".7"/>
+  <text x="600" y="190" text-anchor="middle" class="name breathe" fill="url(#nameGlow)">MUSTAFA ALAJATI</text>
+  <g text-anchor="middle">
+    <text x="590" y="228" class="role" fill="#d4d8df">SOFTWARE DEVELOPER · AUTOMATION · AI SYSTEMS</text>
+    <rect x="910" y="211" width="8" height="19" rx="1" fill="#eef6ff" class="blink" filter="url(#softGlow)"/>
+  </g>
+  <use href="#wavePath" fill="none" stroke="#fff" stroke-opacity=".12" stroke-width="1"/>
+  <use href="#wavePath" fill="none" stroke="url(#line)" stroke-width="1.6" class="wave"/>
+  <circle r="5" fill="#eef7ff" filter="url(#glow)">
+    <animateMotion dur="7s" repeatCount="indefinite" rotate="auto">
+      <mpath href="#wavePath"/>
+    </animateMotion>
+  </circle>
+  <circle r="14" fill="#dbeafe" opacity=".12">
+    <animateMotion dur="7s" repeatCount="indefinite" rotate="auto">
+      <mpath href="#wavePath"/>
+    </animateMotion>
+  </circle>
+  <g fill="#dbeafe" filter="url(#softGlow)">
+    <circle cx="272" cy="300" r="1.8" class="fade1"/>
+    <circle cx="458" cy="259" r="1.5" class="fade2"/>
+    <circle cx="790" cy="228" r="1.8" class="fade3"/>
+    <circle cx="1014" cy="270" r="1.5" class="fade1"/>
+  </g>
+  <text x="58" y="354" class="micro" fill="#707782">DISCIPLINE CREATES FREEDOM</text>
+  <text x="1142" y="354" text-anchor="end" class="micro" fill="#707782">LESS NOISE · MORE PROGRESS</text>
+  <rect x="22" y="22" width="1156" height="376" rx="24" fill="none" stroke="#fff" stroke-opacity=".12"/>
+</svg>
