@@ -7,7 +7,7 @@
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2800&pause=900&color=000000&center=true&vCenter=true&repeat=true&width=760&height=42&lines=Pratik+yaz%C4%B1l%C4%B1m+sistemleri+geli%C5%9Ftiriyorum;Ger%C3%A7ek+i%C5%9F+s%C3%BCre%C3%A7lerini+otomatikle%C5%9Ftiriyorum;Veri+odakl%C4%B1+uygulamalar+olu%C5%9Fturuyorum;Oyun+ve+ak%C4%B1ll%C4%B1+sistemler+geli%C5%9Ftiriyorum" alt="Animated introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2800&pause=900&color=FFFFFF&center=true&vCenter=true&repeat=true&width=760&height=42&lines=Pratik+yaz%C4%B1l%C4%B1m+sistemleri+geli%C5%9Ftiriyorum;Ger%C3%A7ek+i%C5%9F+s%C3%BCre%C3%A7lerini+otomatikle%C5%9Ftiriyorum;Veri+odakl%C4%B1+uygulamalar+olu%C5%9Fturuyorum;Oyun+ve+ak%C4%B1ll%C4%B1+sistemler+geli%C5%9Ftiriyorum" alt="Animated introduction" />
 </div>
 
 ```console
