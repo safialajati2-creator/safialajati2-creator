@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
+  <title id="title">Mustafa Alajati — Software Developer</title>
+  <desc id="desc">Animated developer profile banner for Mustafa Alajati.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#050814"/>
+      <stop offset="0.5" stop-color="#091126"/>
+      <stop offset="1" stop-color="#090510"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#38E8FF"/>
+      <stop offset="0.36" stop-color="#5B8CFF"/>
+      <stop offset="0.72" stop-color="#A855F7"/>
+      <stop offset="1" stop-color="#38E8FF"/>
+      <animateTransform attributeName="gradientTransform" type="translate" values="-.25 0;.25 0;-.25 0" dur="9s" repeatCount="indefinite"/>
+    </linearGradient>
+    <radialGradient id="glow1"><stop offset="0" stop-color="#22D3EE" stop-opacity=".22"/><stop offset="1" stop-color="#22D3EE" stop-opacity="0"/></radialGradient>
+    <radialGradient id="glow2"><stop offset="0" stop-color="#8B5CF6" stop-opacity=".22"/><stop offset="1" stop-color="#8B5CF6" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse"><path d="M42 0H0V42" fill="none" stroke="#67E8F9" stroke-opacity=".055" stroke-width="1"/></pattern>
+    <filter id="soft" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="7" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <filter id="tiny" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <clipPath id="clip"><rect x="26" y="26" width="1148" height="368" rx="28"/></clipPath>
+    <style>
+      .mono{font:600 14px ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace;letter-spacing:3px}.name{font:800 72px Inter,ui-sans-serif,system-ui,-apple-system,"Segoe UI",sans-serif;letter-spacing:7px}.role{font:500 17px ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace;letter-spacing:3px}.small{font:500 11px ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace;letter-spacing:2px}.scan{animation:scan 6.5s linear infinite}.ringA{transform-origin:600px 210px;animation:spin 26s linear infinite}.ringB{transform-origin:600px 210px;animation:spinBack 19s linear infinite}.pulse{animation:pulse 3s ease-in-out infinite}.blink{animation:blink 1s steps(1) infinite}.floatA{animation:floatA 8s ease-in-out infinite}.floatB{animation:floatB 10s ease-in-out infinite}@keyframes scan{from{transform:translateY(-55px)}to{transform:translateY(475px)}}@keyframes spin{to{transform:rotate(360deg)}}@keyframes spinBack{to{transform:rotate(-360deg)}}@keyframes pulse{0%,100%{opacity:.35}50%{opacity:1}}@keyframes blink{0%,52%{opacity:1}53%,100%{opacity:0}}@keyframes floatA{0%,100%{transform:translate(0,0)}50%{transform:translate(16px,-11px)}}@keyframes floatB{0%,100%{transform:translate(0,0)}50%{transform:translate(-14px,13px)}}
+    </style>
+  </defs>
+  <rect width="1200" height="420" rx="34" fill="url(#bg)"/>
+  <g clip-path="url(#clip)">
+    <circle class="floatA" cx="170" cy="90" r="245" fill="url(#glow1)"/>
+    <circle class="floatB" cx="1010" cy="330" r="275" fill="url(#glow2)"/>
+    <rect x="26" y="26" width="1148" height="368" fill="url(#grid)"/>
+    <g opacity=".30"><ellipse class="ringA" cx="600" cy="210" rx="360" ry="128" fill="none" stroke="url(#accent)" stroke-width="1.2" stroke-dasharray="4 15"/><ellipse class="ringB" cx="600" cy="210" rx="430" ry="164" fill="none" stroke="url(#accent)" stroke-width=".8" stroke-dasharray="32 18 2 18"/></g>
+    <g class="scan" opacity=".30"><rect x="26" y="0" width="1148" height="2" fill="url(#accent)" filter="url(#soft)"/><rect x="26" y="2" width="1148" height="35" fill="url(#accent)" opacity=".05"/></g>
+  </g>
+  <rect x="26" y="26" width="1148" height="368" rx="28" fill="none" stroke="url(#accent)" stroke-opacity=".58" stroke-width="1.5"/>
+  <path d="M62 56h82M62 56v42M1138 56h-82M1138 56v42M62 364h82M62 364v-42M1138 364h-82M1138 364v-42" fill="none" stroke="url(#accent)" stroke-width="2" stroke-linecap="round" opacity=".78"/>
+  <text x="600" y="112" text-anchor="middle" class="mono" fill="#7DEBFF" opacity=".9">&gt; MUSTAFA / DEVELOPER PROFILE</text>
+  <text x="600" y="224" text-anchor="middle" class="name" fill="url(#accent)" filter="url(#soft)">MUSTAFA</text>
+  <text x="600" y="282" text-anchor="middle" class="name" font-size="45" fill="url(#accent)" opacity=".95">ALAJATI</text>
+  <g text-anchor="middle"><text x="590" y="330" class="role" fill="#DCE8FF">SOFTWARE DEVELOPER · AUTOMATION · AI</text><rect class="blink" x="908" y="313" width="9" height="20" rx="1.5" fill="#62F5FF" filter="url(#tiny)"/></g>
+  <g fill="#8AF7FF" filter="url(#tiny)"><circle class="pulse" cx="115" cy="105" r="2.4"/><circle class="pulse" cx="1080" cy="103" r="2.4" style="animation-delay:.7s"/><circle class="pulse" cx="1050" cy="316" r="2" style="animation-delay:1.3s"/><circle class="pulse" cx="146" cy="318" r="2" style="animation-delay:1.9s"/></g>
+  <text x="64" y="378" class="small" fill="#86EAF5" opacity=".58">SYSTEM: BUILDING</text>
+  <text x="1136" y="378" text-anchor="end" class="small" fill="#C99AFF" opacity=".58">CODE // AUTOMATE // CREATE</text>
+</svg>
